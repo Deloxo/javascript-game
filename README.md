@@ -1,3 +1,3 @@
-# javascript-game
+# Javascript game
 
-# Author: Tomas "Deloxo" Duchesne
+Author: Tomas "Deloxo" Duchesne
