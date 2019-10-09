@@ -1,0 +1,38 @@
+body {
+    background-color: grey;
+}
+div {
+    box-sizing: border-box;
+    border: black solid 2px;
+    background-color: lightgrey;
+}
+#page {
+    width: 1000px;
+    margin: auto;
+}
+
+#header {
+    height: 150px;
+}
+
+#headspacer {
+    height: 50px;
+}
+
+#main-content {
+    height: 700px;
+    display: flex;
+}
+
+#side-bar {
+    border: 0px;
+    width: 300px;
+}
+
+#footspacer {
+    height: 50px;
+}
+
+#footer {
+    height: 150px;
+}
